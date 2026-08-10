@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-7rblcw.pagogasnattural.top/sitemap.xml
